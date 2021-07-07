@@ -1,4 +1,4 @@
 # Details-and-summary
-Details and summary are new two semantic elements.
+Details and summary are new two semantic elements.<br>
 You can preview the page by clicking the below link <br>
 https://bharathipravallika.github.io/Details-and-summary/index.html
